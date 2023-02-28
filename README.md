@@ -1,6 +1,6 @@
 Description :
 =============
-I just shared my works, which I worked as learning path and practiced some C programming such as Stack. 
+I just shared my works, which I worked as learning path and practiced some C programming such as Stack being implemented using array with variable data type in a stack node. 
 
 Purpose :
 =========
