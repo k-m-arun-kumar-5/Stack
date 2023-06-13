@@ -1,6 +1,6 @@
 Description :
 =============
-I,  K.M. Arun Kumar alias Arunkumar Murugeswaran, just shared my works, which I worked as learning path and practiced some C programming such as stack being implemented using Singly Lined List with variable stack data in a stack node. 
+I,  K.M. Arun Kumar alias Arunkumar Murugeswaran, just shared my works, which I worked as learning path and practiced some C programming such as stack being implemented using Singly Linked List with variable stack data in a stack node. 
 
 Purpose :
 =========
