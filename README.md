@@ -1,6 +1,6 @@
 Description :
 =============
-I,  K.M. Arun Kumar alias Arunkumar Murugeswaran, just shared my works, which I worked as learning path and practiced some C programming such as stack being implemented using array with variable stack data in stack node, been allocated in a Single Linked List (SLL). 
+I,  K.M. Arun Kumar alias Arunkumar Murugeswaran, just shared my works, which I worked as learning path and practiced some C programming such as stack being implemented using Singly Lined List with variable stack data in a stack node. 
 
 Purpose :
 =========
@@ -13,7 +13,7 @@ I thank to my family, Friends, Teachers, People behind the toolchains and refere
 Toolchains that I used for C Application design and development are as follows :
 ==================================================================================
 1: IDE or Compiler used                                                     - CodeBlocks with GNU GCC Compiler. 
-2: Desktop Computer Architecture and OS for C Programming                   - Intel X64 & Windows 8.1 (64 bit).
+2: Desktop Computer Architecture and OS for C Programming                   - Intel X64 & Windows 10 (64 bit).
 3: Code editor                                                              - Notepad++.
 4: Documentation                                                            - Microsoft Office 2007 (alternative LibreOffice) and Text Editor. 
 5: File Archiver                                                            - 7-Zip 
